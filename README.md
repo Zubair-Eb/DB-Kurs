@@ -1,3 +1,3 @@
 # DB-Kurs
-goorm vorbereitet
-weiterarbeiten 
+#goorm vorbereitet
+#weiterarbeiten 
